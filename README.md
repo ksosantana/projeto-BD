@@ -1,3 +1,5 @@
 # projeto-BD
+# Monitoramento de Tráfego em Tempo Real
 
-Site de pesquisa de opinião sobre as eleições de 2024 da cidade de Manaus-Am
+Este projeto é um sistema simples de monitoramento de tráfego em tempo real usando a API do Google Maps.
+
